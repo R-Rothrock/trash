@@ -1,0 +1,11 @@
+Package: trash
+Source: trash
+Section: utils
+Priority: optional
+Description: A simple trash command line system for Linux.
+ Easy to use CLI system for interaction with trash systems in Linux.
+Maintainer: Roan Rothrock <roan.rothrock@hotmail.com>
+Architecture: all
+Essential: no
+Version: 1.0.4
+Homepage: https://github.com/R-Rothrock/trash
