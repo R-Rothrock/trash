@@ -1,5 +1,5 @@
 # trash
-Simple trash command line system for Linx.
+Simple trash command line system for Linux.
 
 ## Installation
 Look for an instatller for your Linux distro in the `installers/` directory. If it's not there, please let me know.
